@@ -2,6 +2,10 @@
 
 This repository contains five mini projects, each focusing on a specific set of web development skills. The projects are designed to be lightweight, functional, and provide practical implementations of key features.
 
+## Deployed Website
+
+The Mini Projects application has been deployed on Vercel. It can be accessed through the following url: https://mini-projects-seven-plum.vercel.app
+
 ## Countdown timer
 
 ### Features
@@ -71,7 +75,3 @@ This repository contains five mini projects, each focusing on a specific set of 
       ```
 
 The portfolio should now be running at http://localhost:5173.
-
-## Deployed Website
-
-The EcoRide application has been deployed on Vercel. It can be accessed through the following url: https://mini-projects-seven-plum.vercel.app
